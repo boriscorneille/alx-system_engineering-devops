@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir -p /welcom/to/school
-=======
-mkdir -p  /welcome/to/school
->>>>>>> 93b26cfc633caf5b5b2d6df8cc84515ce25e4949
+mkdir -p welcome/to/school
