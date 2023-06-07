@@ -6,3 +6,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 delete betty from myfirstdirectory file
 delete my first directory
 take me to the previous directory
+a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
